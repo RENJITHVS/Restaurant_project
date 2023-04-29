@@ -12,6 +12,7 @@ A web application for ordering food from a restaurant. Users can view the menu, 
 - Django 4.2
 - React 16.13.1
 - JWT authentication
+- Material UI 4
 - Axios
 
 ## Features
