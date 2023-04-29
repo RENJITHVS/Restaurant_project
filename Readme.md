@@ -4,6 +4,9 @@
 
 A web application for ordering food from a restaurant. Users can view the menu, select quandity, and place an order. The application is built using Django and React, and uses JWT authentication.
 
+![plot](https://github.com/RENJITHVS/Restaurant_project/blob/main/Frontend/restapi/src/assets/img1.png?raw=true)
+![plot](https://github.com/RENJITHVS/Restaurant_project/blob/main/Frontend/restapi/src/assets/img2.png?raw=true)
+
 ## Technologies Used
 
 - Django 4.2
