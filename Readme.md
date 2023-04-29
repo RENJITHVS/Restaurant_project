@@ -51,5 +51,5 @@ A web application for ordering food from a restaurant. Users can view the menu, 
 ## Usage
 
 1. Register for an account or log in if you already have an account.
-2. View the menu items and select the quandity of items you want to order.
+2. View the menu items and select the quandity of items then place the order.
 3. Review your order.
