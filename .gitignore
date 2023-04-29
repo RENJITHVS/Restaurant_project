@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+package-lock.json
+build/
+ipynb_checkpoints/
+node_modules/
+venv/
