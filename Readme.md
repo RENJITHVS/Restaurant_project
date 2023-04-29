@@ -17,7 +17,7 @@ A web application for ordering food from a restaurant. Users can view the menu, 
 ## Features
 
 - View menu items
-- Select and add items to cart
+- Select and add the quandity of the menu items
 - Place orders
 - JWT authentication for user login and registration
 
